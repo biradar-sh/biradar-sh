@@ -46,11 +46,11 @@ When I’m not coding or crunching numbers, you’ll probably find me meditating
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** Python, SQL  
-**Databases:** Snowflake, BigQuery, PostgreSQL  
-**Visualization:** Tableau, Power BI, Looker Studio  
-**ML & AI:** Scikit-learn, BERT, XGBoost, GenAI, Forecasting  
-**Cloud:** AWS  
+**AI/Agents:** Google ADK, OpenAI SDK, A2A, RAG, embeddings, evaluations, Claude Code, GitHub Copilot
+**Backend:** Python, FastAPI, Pydantic, Docker, CI/CD
+**Data & Search:** SQL, Elasticsearch, Snowflake, PostgreSQL, Redis
+**ML:** scikit-learn, PyTorch, XGBoost, NLP, forecasting
+**Cloud & Observability:** AWS, OpenTelemetry, Grafana Tempo
 
 ---
 
