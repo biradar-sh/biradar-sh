@@ -15,9 +15,23 @@ Here are some ideas to get you started:
 
 # 👋 Hey, I'm Shruti Biradar  
 
-I’m a **Data Scientist** who loves turning data into decisions. With 8+ years of experience across **analytics, ML, NLP, and GenAI**, I’ve worked on everything from sales forecasting to customer analytics and automation — across industries like **pharma, beauty care, food & oil, chemicals, and retail**.  
+AI Engineer building production LLM agents in financial services. I work on multi-agent
+orchestration (Google ADK, A2A), RAG, agent evaluation, and LLM observability.
 
-I started out in SAP consulting, which gave me a strong grasp of business processes and data systems — now I use that foundation to build smarter, data-driven solutions. These days, I’m learning and experimenting with **AI Engineering** (think GenAI, LLMs, and agentic workflows) and will be adding a new project soon!  
+My path: 9 years of SAP consulting leading global implementations → data science (NLP,
+forecasting, ML pipelines on AWS) → AI engineering. That consulting background means I
+start from the business process and the people using the system, not just the model.
+
+When I'm not building agents, you'll probably find me meditating — balancing logic with stillness.
+
+## 🔧 What I work on
+- 🤖 **Agentic systems:** incident-investigation agents with tool use across logs, databases,
+  and deployment history, with human-in-the-loop approval
+- 🔀 **Multi-agent orchestration:** A2A discovery and routing across frameworks
+  (Google ADK ↔ OpenAI Agents SDK)
+- 🔎 **RAG & retrieval:** embeddings, two-stage vector search in Elasticsearch, threshold tuning
+- 📏 **Evals & observability:** labeled eval sets, LLM-as-judge, OpenTelemetry tracing in Grafana Tempo
+
 
 When I’m not coding or crunching numbers, you’ll probably find me meditating — balancing logic with stillness.  
 
