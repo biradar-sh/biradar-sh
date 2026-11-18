@@ -1,18 +1,3 @@
-<!--
-**biradar-sh/biradar-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hey, I'm Shruti Biradar  
 
 AI Engineer building production LLM agents in financial services. I work on multi-agent
@@ -33,8 +18,6 @@ When I'm not building agents, you'll probably find me meditating — balancing l
 - 📏 **Evals & observability:** labeled eval sets, LLM-as-judge, OpenTelemetry tracing in Grafana Tempo
 
 
-When I’m not coding or crunching numbers, you’ll probably find me meditating — balancing logic with stillness.  
-
 ---
 
 ### 📚 Projects  
@@ -46,15 +29,15 @@ When I’m not coding or crunching numbers, you’ll probably find me meditating
 ---
 
 ### 🛠️ Tech Stack  
-**AI/Agents:** Google ADK, OpenAI SDK, A2A, RAG, embeddings, evaluations, Claude Code, GitHub Copilot
-**Backend:** Python, FastAPI, Pydantic, Docker, CI/CD
-**Data & Search:** SQL, Elasticsearch, Snowflake, PostgreSQL, Redis
-**ML:** scikit-learn, PyTorch, XGBoost, NLP, forecasting
-**Cloud & Observability:** AWS, OpenTelemetry, Grafana Tempo
+- **AI/Agents:** Google ADK, OpenAI SDK, A2A, RAG, embeddings, evaluations, Claude Code, GitHub Copilot
+- **Backend:** Python, FastAPI, Pydantic, Docker, CI/CD
+- **Data & Search:** SQL, Elasticsearch, Snowflake, PostgreSQL, Redis
+- **ML:** scikit-learn, PyTorch, XGBoost, NLP, forecasting
+- **Cloud & Observability:** AWS, OpenTelemetry, Grafana Tempo
 
 ---
 
 ### 🌐 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/shrutibiradar/)  
-- [Portfolio](#) *(coming soon!)*  
+- [Portfolio](https://biradar-sh.github.io/)  
 
